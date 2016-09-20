@@ -1,0 +1,15 @@
+{
+  "name": "mewe-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/wdio wdio.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.4.3",
+    "webdriverio": "^4.2.16"
+  }
+}
